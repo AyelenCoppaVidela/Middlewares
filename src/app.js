@@ -5,6 +5,7 @@ const express = require('express');
 const logger = require('morgan');
 const path = require('path');
 
+
 // ************ express() - (don't touch) ************
 const app = express();
 
@@ -24,7 +25,12 @@ app.set('views', './src/views'); // Seteo de la ubicación de la carpeta "views"
 // ************ WRITE YOUR CODE FROM HERE ************
 // ************ Route System require and use() ************
 const mainRouter = require('./routes/main');
+const adminRouter = require('./routes/admin.js');
+const servicesRouter = require('./routes/services.js');
+
 app.use('/', mainRouter);
+app.use('/admin', adminRouter);
+app.use('/services', servicesRouter);
 
 
 
