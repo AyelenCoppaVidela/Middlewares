@@ -1,9 +1,2 @@
-El usuario ingresó a la ruta: /El usuario ingresó a la ruta: /services/El usuario ingresó a la ruta: /adminEl usuario ingresó a la ruta: /admin/AyelenEl usuario ingresó a la ruta: /admin/userEl usuario ingresó a la ruta: /El usuario ingresó a la ruta: /services/desingEl usuario ingresó a la ruta: /services/El usuario ingresó a la ruta: /adminEl usuario ingresó a la ruta: /admin?user=AyelenEl usuario ingresó a la ruta: /admin?user=MartinEl usuario ingresó a la ruta: /admin?user=AdaEl usuario ingresó a la ruta: /admin?user=ArturoEl usuario ingresó a la ruta: /admin?user=MiguelEl usuario ingresó a la ruta: /admin?user=DarkmoonEl usuario ingresó a la ruta: /El usuario ingresó a la ruta: /El usuario ingresó a la ruta: /El usuario ingresó a la ruta: /services/desingEl usuario ingresó a la ruta: /services/El usuario ingresó a la ruta: /services/El usuario ingresó a la ruta: /services/desing
-El usuario ingresó a la ruta: /services/desing
+El usuario ingresó a la ruta: / 
 
-El usuario ingresó a la ruta: /
-
-El usuario ingresó a la ruta: /services/
-
-El usuario ingresó a la ruta: /services/desing
-El usuario ingresó a la ruta: /
